@@ -26,3 +26,7 @@ This file is meant to be run first and as a one time activity. The file will dow
 - All work and analysis on top of this data was solely creaated by @ksprashu; however feel free to use this repo, the accompanying blog, and the jupyter notebooks as you would please as long as due credit is extended.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+
+### Websites as reference
+- https://techoverflow.net/2018/01/16/downloading-reading-a-zip-file-in-memory-using-python/
+- https://docs.python.org/3/library/zipfile.html
