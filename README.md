@@ -3,7 +3,10 @@
 ## Data Acquisition
 
 ## Objective
-In this analysis, we would like to take a look at the data sets of the stackoverflow surveys held year on year from 2011 to 2019 and see how the trends are changing year on year. 
+In this analysis, we would like to take a look at the data sets of the stackoverflow surveys held year on year from 2011 to 2019 and see how the trends are changing year on year. Some of the question that I wanted to understand from the data were -
+1. Which are the most popular programming languages and how are they changing year on year?
+2. What is the gender distribution of programmers and how are they changing year on year?
+3. How is salary correlated to genders, as well as the programming languages, keeping education and years of experience as constant?
 
 ## Installation
 The jupyter notebook will run on a default installation of Anaconda. It is not necessary to install any additional modules for the purpose of running this code. 
