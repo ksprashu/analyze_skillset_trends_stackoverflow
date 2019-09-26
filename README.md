@@ -3,10 +3,9 @@
 ## Data Acquisition
 
 ## Objective
-In this analysis, we would like to take a look at the data sets of the stackoverflow surveys held year on year from 2011 to 2019 and see how the trends are changing year on year. Some of the question that I wanted to understand from the data were -
-1. Which are the most popular programming languages and how are they changing year on year?
-2. What is the gender distribution of programmers and how are they changing year on year?
-3. How is salary correlated to genders, as well as the programming languages, keeping education and years of experience as constant?
+In this analysis, we would like to take a look at the data sets of the stackoverflow surveys held year on year from 2011 to 2019 and see how the trends are changing year on year. 
+
+Specifically I would like to look at trends in programming languages and technology and compare it to salary of the individuals working on those technologies, where possible.
 
 ## Installation
 The jupyter notebook will run on a default installation of Anaconda. It is not necessary to install any additional modules for the purpose of running this code. 
@@ -20,7 +19,11 @@ There are 3 files as part of this repository.
 ### acquire_files.pynb
 This file is meant to be run first and as a one time activity. The file will download all the pre-requisite resources and datasets from stackoverflow and place them in the filesystem so that the other notebooks can use this data to do the analysis.
 
-### 
+### wrangle_data.pynb
+This file will load the csv files that were downloaded and extract the required features from those datasets. Then it will combine all the data and export it for further analysis.
+
+### analyze_tech_trends.pynb
+This file will load the consolidated dataset of the programming language usage and look for year on year trends and how they compare to the compensation.
 
 ## Results
 
