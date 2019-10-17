@@ -26,6 +26,7 @@ This file will load the csv files that were downloaded and extract the required 
 This file will load the consolidated dataset of the programming language usage and look for year on year trends and how they compare to the compensation.
 
 ## Results
+The findings during this analysis and the results thereof have been all documented in the following blog post - 
 
 ## License and Acknowledgements
 - The data was sourced from [Stackoverflow](https://insights.stackoverflow.com/survey). Due credit to stackoverflow for running such a comprehensive study year and year and further for making this data available for public access.
