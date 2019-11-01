@@ -16,13 +16,13 @@ The pre-requisite files will be downloaded by the script when run the first time
 ## File Description
 There are 3 files as part of this repository.
 
-#### (blob/master/acquire_files.pynb)
+#### [acquire_files.pynb]
 This file is meant to be run first and as a one time activity. The file will download all the pre-requisite resources and datasets from stackoverflow and place them in the filesystem so that the other notebooks can use this data to do the analysis.
 
-#### (blob/master/wrangle_data.pynb)
+#### [wrangle_data.pynb]
 This file will load the csv files that were downloaded and extract the required features from those datasets. Then it will combine all the data and export it for further analysis.
 
-#### (blob/master/analyze_tech_trends.pynb)
+#### [analyze_tech_trends.pynb]
 This file will load the consolidated dataset of the programming language usage and do all the relevant data analysis to look for answers to the questions posed.
 
 ## Results
